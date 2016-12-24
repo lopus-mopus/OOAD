@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/35121789/how-to-find-the-largest-contour-in-emgucv-c-sharp
